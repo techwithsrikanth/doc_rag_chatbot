@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@huggingface/transformers": "^3.0.0-alpha.5",
-    "@tensorflow/tfjs-node": "^4.20.0",
     "axios": "^1.7.4",
     "body-parser": "^1.20.2",
     "chromadb": "^1.8.1",
